@@ -1,0 +1,181 @@
+
+.mainhead1{
+    background-color: #03164c;
+    width: 100%;
+    height: 100px;
+}
+
+.logo{
+    padding: 20px;
+   float: left;
+   margin-right: 15px;
+}
+
+a{
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+
+}
+.nav{
+float: left;  
+padding-left: 40px;  
+font-size: larger;
+}
+
+.car1{
+    background-image: url("../images/banner-bg.png");
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding-top: 250px;
+    
+}
+
+.car2{
+    background-color: grey;
+    border-radius: 15px;
+    text-align: center;
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    font-size: larger;
+}
+
+.Car3{
+    width: 100%;
+    text-align: center;
+}
+
+.Car4{
+  
+    width: 100%;
+    height: 500px;
+ 
+}
+
+
+
+#btn1{
+    background-color: #03164c;
+    color: white;
+    padding: 20px;
+    width: 150px;
+    border-radius: 15px;
+    margin-top: 20px;
+
+}
+
+#btn2{
+    color: white;
+    background-color: rgb(255, 111, 59);
+    border-radius: 9px;
+    height: 60px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.botn{
+    text-align: center;
+
+}
+
+
+.ab1{
+    text-align: center;
+  
+    border-bottom: solid 1px cyan;
+    margin: auto;
+    width: 200px;
+    font-size: larger;
+    margin-top: -20px;
+}
+
+.class1{
+    width: 100%;
+    text-align: center;
+    border-bottom: solid 1px cyan;
+    margin: auto;
+    width: 200px;
+    font-size: larger;
+}
+
+.gym{
+    width: 50%;
+    height: 600px;
+    background-color: black;
+    float: left;
+    color: white;
+ 
+}
+.spca{
+    padding: 50px;
+}
+
+
+.imgdiv{
+    width: 50%;
+    height: 600px;
+    background-color: yellow;
+    float: left;
+    background-image: url(../images/about-bg.png);
+    background-size: cover;
+}
+
+.pic1{
+float: left;
+padding-left: 70px;
+text-align: center;
+}
+
+.partner{
+    clear: both;
+    background-image: url(../images/img-4.png);
+    background-size: cover;
+    width: auto;
+    height: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.partner2{
+    margin-left: 12px;
+    margin-top: 50px;
+}
+
+#ptn1{
+    color: white;
+    font-size:50px;
+}
+
+.btt{
+    clear: both;
+    text-align: center;
+}
+
+#btn3{
+    color: white;
+    background-color: rgb(30, 30, 47);
+    border-radius: 15px;
+    margin: auto;
+    width: 200px;
+    height: 75px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#btn4{
+    color: white;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 300px;
+    height: 60px;
+    padding-left: 15px;
+}
+
+.move{
+    padding-left: 100px;
+    padding-top: 50px;
+}
